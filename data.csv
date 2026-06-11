@@ -1,0 +1,9 @@
+Material,EnergyDensity,StabilityScore,CostScore
+
+Water,0.25,5,5
+CaCl₂,2.16,4,5
+MgSO₄,2.81,5,5
+MgCl₂,3.14,3,4
+SrCl₂,2.51,4,3
+SrBr₂,2.26,3,2
+LiCl,1.75,2,1
